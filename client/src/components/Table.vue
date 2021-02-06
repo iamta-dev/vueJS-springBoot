@@ -113,7 +113,7 @@
         <v-dialog v-model="popup.RowDetail" max-width="700px">
           <v-card style="background-color: #FFFFFF">
             <v-app-bar dark color="#1A76D2">
-              <v-toolbar-title><h3>Student Information</h3></v-toolbar-title>
+              <v-toolbar-title><h3>Edit Student</h3></v-toolbar-title>
 
               <v-spacer></v-spacer>
               <v-btn icon>
