@@ -37,6 +37,8 @@ java h2(RESTful API) using GET POST PATCH DELETE
   <div style="text-align:center"><img src="./UI/table.png" width="100%"></img></div>
 * find_studentCode.png
   <div style="text-align:center"><img src="./UI/find_studentCode.png" width="100%"></img></div>
+* find_stu_found.png
+  <div style="text-align:center"><img src="./UI/find_stu_found.png" width="100%"></img></div>
 * edit_student.png
   <div style="text-align:center"><img src="./UI/edit_student.png" width="100%"></img></div>
 
